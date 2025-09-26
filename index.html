@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lexend:wght@500&display=swap" rel="stylesheet">
+  <title>hazyFlix</title>
+  <style>
+    body {
+      font-family: 'Lexend', sans-serif;
+    }
+    @font-face {
+  font-family: 'onePiece';
+  src: url('/asset/one.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
+
+
+
+    body{
+      margin: 0;
+      padding: 0;
+      overflow-y: scroll;
+    }
+/* Chrome, Safari, Edge */
+  body::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Firefox */
+  body {
+    scrollbar-width: none;
+    -ms-overflow-style: none; /* IE 10+ */
+  }
+
+  </style>
+
+
+
+
+
+</head>
+
+<body>
+  <section class="min-h-screen w-full bg-[url('/asset/hero-bg.png')] bg-cover bg-center px-4 sm:px-6 lg:px-8">
+    <h1 class="font-semibold text-lg sm:text-xl lg:text-2xl p-2 sm:p-4 text-gray-300">hazy<span class="text-[#17185D]">Flix</span></h1>
+    <div class="flex flex-col items-center justify-center min-h-[80vh] px-4 text-center">
+      <img src="/asset/hero.png" alt="" class="w-auto h-auto max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg object-contain mb-6 sm:mb-8">
+      <h1 class="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-bold bg-gradient-to-r from-white via-gray-200 to-gray-400 bg-clip-text text-transparent leading-tight px-2 mb-8 sm:mb-12">
+        Find <span class="font-one">Peak</span> Without  <br class="hidden sm:block">Using Your <span class="bg-gradient-to-l from-[#D5C6FF] to-[#AC8CFF] bg-clip-text text-transparent">Monke </span>Brain
+      </h1>
+      
+      <div class="w-full max-w-lg mx-auto relative">
+        <input id="q" name="q" type="text"
+               class="w-full px-4 py-3 sm:px-6 sm:py-4 pl-12 sm:pl-14 text-base sm:text-lg rounded-xl bg-[#0D0A20] border border-white/20 text-white placeholder-gray-300 outline-none shadow-2xl focus:border-[#AC8CFF] focus:bg-[#0D0A20] focus:shadow-[#AC8CFF]/25 transition-all duration-300"
+               placeholder="Type title, actor, or genre…" aria-label="Search movies" />
+        <img src="https://cinesearchhmovies.netlify.app/search.svg" alt="Search" class="absolute left-3 sm:left-4 top-1/2 transform -translate-y-1/2 w-5 h-5 sm:w-6 sm:h-6 opacity-70">
+      </div>
+    </div>
+    <div class="flex flex-col gap-4 mt-4 sm:flex-row sm:items-center">
+      <button class="px-5 py-2.5 rounded-lg bg-[#0E0D35] text-white font-medium shadow-md hover:bg-[#0E0D35] active:scale-95 transition">New Movies</button>
+      <button class="px-5 py-2.5 rounded-lg bg-[#0E0D35] text-white font-medium shadow-md hover:bg-[#0E0D35] active:scale-95 transition">Hazy List</button>
+    </div>
+  </section>
+
+<section class="w-full h-[200%] bg-gradient-to-b from-[#0a0229] to-[#00000a]">
+  <div>helloworld</div>
+</section>
+
+
+
+</body>
+
+</html>`
