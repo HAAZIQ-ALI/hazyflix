@@ -39,7 +39,7 @@ app.get('/search', async (req, res) => {
   }
 });
 
-1// Start the server - try multiple ports in case some are in use
+// Start the server - try multiple ports in case some are in use
 const ports = [3001, 3002, 3003, 8080, 8081];
 let server;
 

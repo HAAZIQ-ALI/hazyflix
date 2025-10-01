@@ -1,0 +1,130 @@
+[
+  {
+    "Title": "One Piece",
+    "Year": "1999–",
+    "imdbID": "tt0388629",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "10"
+  },
+  {
+    "Title": "Erased",
+    "Year": "2016",
+    "imdbID": "tt5249462",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ2YmI5NWMtZTY2Mi00MGUxLWFhMmEtYjVjZjMwOTNkOThjXkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "10"
+  },
+  {
+    "Title": "Monster",
+    "Year": "2004–2005",
+    "imdbID": "tt0434706",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzU2MWQ5NGQtYmNlMC00ZjJkLWJmODItZDM5MDM3YmUyMWJkXkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "10"
+  },
+  {
+    "Title": "The Lord of the Rings: The Fellowship of the Ring",
+    "Year": "2001",
+    "imdbID": "tt0120737",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "10"
+  },
+  {
+    "Title": "Hunter x Hunter",
+    "Year": "2011–2014",
+    "imdbID": "tt1355642",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGM0YTk3MWEtN2JlZC00ZmZmLWIwMDktZTMxZGE5Zjc2MGExXkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "9.8"
+  },
+  {
+    "Title": "Dr. Stone",
+    "Year": "2019–2024",
+    "imdbID": "tt9679542",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzlmOWQwNzAtMjI5OC00MTBkLThhMDAtODA0YjM4MTM5ZDNhXkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "9.6"
+  },
+  {
+    "Title": "Vinland Saga",
+    "Year": "2019–2023",
+    "imdbID": "tt10233448",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTUyOGI4OTItYzQxYi00ZDZiLWEwNDctZmE4OGI0MTg3NDdlXkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "9.5"
+  },
+  {
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Year": "2001",
+    "imdbID": "tt0241527",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTU1MzgyMDMtMzBlZS00YzczLThmYWEtMjU3YmFlOWEyMjE1XkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "9.5"
+  },
+  {
+    "Title": "Interstellar",
+    "Year": "2014",
+    "imdbID": "tt0816692",
+    "Type": "movie",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "9.4"
+  },
+  {
+    "Title": "Bungo Stray Dogs",
+    "Year": "2016–",
+    "imdbID": "tt5679720",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzA5Y2MzNDAtZjBjZi00OTUzLWI5NDAtMTg1ODRhMmU2MGY3XkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "9.4"
+  },
+  {
+    "Title": "Naruto",
+    "Year": "2002–2007",
+    "imdbID": "tt0409591",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTNjOWI0ZTAtOGY1OS00ZGU0LWEyOWYtMjhkYjdlYmVjMDk2XkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "9.3"
+  },
+  {
+    "Title": "Demon Slayer: Kimetsu no Yaiba",
+    "Year": "2019–",
+    "imdbID": "tt9335498",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjZjNzI5MDctY2Y4YS00NmM4LTljMmItZTFkOTExNGI3ODRhXkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "9.0"
+  },
+  {
+    "Title": "Black Clover",
+    "Year": "2017–2021",
+    "imdbID": "tt6342474",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTAzYTlkMWEtOTNjZC00ZDU0LWI5ODUtYTRmYzY0MTAzYWZlXkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "8.8"
+  },
+  {
+    "Title": "My Hero Academia",
+    "Year": "2016–",
+    "imdbID": "tt5626028",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmQzNmJmMjMtNzZhYi00OTNjLTkxOTAtNjU2NjI5NWJkYzQ1XkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "8.5"
+  },
+  {
+    "Title": "Moriarty the Patriot",
+    "Year": "2020–2022",
+    "imdbID": "tt13146488",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2M2YmM4MjYtNjRlZS00MTFkLWIxZTEtOTljMWNmNTkyMGFmXkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "8.5"
+  },
+  {
+    "Title": "Bleach",
+    "Year": "2004–2023",
+    "imdbID": "tt0434665",
+    "Type": "series",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjE0YjVjODQtZGY2NS00MDcyLThhMDAtZGQwMTZiOWNmNjRiXkEyXkFqcGc@._V1_SX300.jpg",
+    "myRating": "8.2"
+  }
+]

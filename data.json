@@ -1,4 +1,76 @@
 {
-  "Response": "False",
-  "Error": "Movie not found!"
+  "Search": [
+    {
+      "Title": "One Piece",
+      "Year": "1999–",
+      "imdbID": "tt0388629",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "One Piece",
+      "Year": "2023–",
+      "imdbID": "tt11737520",
+      "Type": "series",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjI0YWJhZTUtMTJhNy00OTEzLThkMjItOThkMmIzMmU4YjliXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "One Piece Film: Red",
+      "Year": "2022",
+      "imdbID": "tt16183464",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTdjY2YxYTQtNjIzYy00ZDczLThhNTUtNmY2ZWNkZjZiMTYzXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "One Piece Fan Letter",
+      "Year": "2024",
+      "imdbID": "tt33998607",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2E5ZTlkYzMtZjYwNy00ZDc4LWE5ZWUtMGNmZjgxMzZjMTJmXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "One Piece Film Z",
+      "Year": "2012",
+      "imdbID": "tt2375379",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjY3ODNiZjgtY2RmNS00MjAyLWIwMzUtNTE0ZWIxNDU3YThhXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "One Piece: The Movie",
+      "Year": "2000",
+      "imdbID": "tt0814243",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWNhMDU3NDQtYWViMC00M2Y4LTk4YTUtYjI2M2ZmN2Q5NDViXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "One Piece: Stampede",
+      "Year": "2019",
+      "imdbID": "tt9430698",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2FlYzRmZGMtM2Y5OC00NzFhLTgyNDAtZDk1YjdkZTlmMjE3XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "One Piece Film: Gold",
+      "Year": "2016",
+      "imdbID": "tt5251328",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjRlNmY2ZmUtNTZjMS00Y2ZlLThkN2ItMmY5MTBiZDJhZTE5XkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "One Piece: Strong World",
+      "Year": "2009",
+      "imdbID": "tt1485763",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTA5MTM5YWQtNzE1Yi00OWUyLTk1MWItMWVkODM4ZGM5OWUzXkEyXkFqcGc@._V1_SX300.jpg"
+    },
+    {
+      "Title": "One Piece: Baron Omatsuri and the Secret Island",
+      "Year": "2005",
+      "imdbID": "tt1018764",
+      "Type": "movie",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4ZDkwMDMtYmFkMS00ODIyLTgxYTQtNzA3M2QyOTQ5ODMzXkEyXkFqcGc@._V1_SX300.jpg"
+    }
+  ],
+  "totalResults": "93",
+  "Response": "True"
 }
